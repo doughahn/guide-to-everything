@@ -1,0 +1,22 @@
+footer,
+footer p,
+div[role=contentinfo],
+div[role=contentinfo] p {
+  font-size:.75rem;
+  margin-top:0rem;
+  margin-bottom:.25rem !important;
+  color: #858585;
+  line-height:1.2;
+}
+
+.footer-first {
+  margin-top:.25rem;
+}
+
+.rst-content .line-bloc P{
+  margin-left:0;
+}
+
+iframe {
+  padding-bottom:3rem;
+}
